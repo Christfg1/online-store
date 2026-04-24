@@ -6,7 +6,6 @@ import com.pluralsight.ui.UserInterface;
 public class OnlineStoreApp {
 
     public static void main(String[] args) {
-        // Create UI and start application
         UserInterface ui = new UserInterface();
         ui.display();
     }
